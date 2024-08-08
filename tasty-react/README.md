@@ -7,6 +7,4 @@ npm create vite@latest
 - npm install
 - npm run dev
 
-# install next js
 
-npx create-next-app@latest
